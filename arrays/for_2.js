@@ -16,8 +16,3 @@ for(let indice in notas) {
 }
 
 console.log(indices);
-
-git commit -m "Aprenda Algoritmo, Lógica de Programação e muito mais no curso que vai te ensinar de forma fácil a programar do Zero."
-
-git config --global user.email "claudio.c.lima@hotmail.com"
-git config --global user.name "claudiobelempb"
